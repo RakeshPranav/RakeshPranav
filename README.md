@@ -2,7 +2,6 @@
      RAKESH PRANAV K S — GitHub Profile README
      GitHub Username: RakeshPranav
      Replace all [YOUR_LINKEDIN_USERNAME] with: your LinkedIn profile slug
-     Replace all [YOUR_LEETCODE_USERNAME] with: your LeetCode username
      ===================================================== -->
 
 <div align="center">
@@ -19,7 +18,7 @@
   <a href="mailto:pranav.sadhasivam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/RakeshPranav"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://leetcode.com/[YOUR_LEETCODE_USERNAME]"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
+  <a href="https://leetcode.com/u/Rakesh_Pranav/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
 </p>
 
 </div>
@@ -184,7 +183,15 @@ QONO TECHNOLOGIES         │  Web Dev Intern (Coimbatore)  Jan 2025 – Feb 202
 
 ---
 
-## 📬 Connect With Me
+## 🧩 LeetCode Stats
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Rakesh_Pranav?theme=dark&font=Fira%20Code&ext=heatmap&hide_border=true)](https://leetcode.com/u/Rakesh_Pranav)
+
+</div>
+
+
 
 <div align="center">
 
@@ -193,8 +200,7 @@ QONO TECHNOLOGIES         │  Web Dev Intern (Coimbatore)  Jan 2025 – Feb 202
 | 📧 Email | [pranav.sadhasivam@gmail.com](mailto:pranav.sadhasivam@gmail.com) |
 | 💼 LinkedIn | [linkedin.com/in/[YOUR_LINKEDIN_USERNAME]](https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]) |
 | 🐙 GitHub | [github.com/RakeshPranav](https://github.com/RakeshPranav) |
-| 🧩 LeetCode | [leetcode.com/[YOUR_LEETCODE_USERNAME]](https://leetcode.com/[YOUR_LEETCODE_USERNAME]) |
-| 📱 Phone | +91 89734 16666 |
+| 🧩 LeetCode | [leetcode.com/u/Rakesh_Pranav](https://leetcode.com/u/Rakesh_Pranav/) |
 
 </div>
 
