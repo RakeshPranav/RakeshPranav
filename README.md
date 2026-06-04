@@ -214,7 +214,7 @@ QONO TECHNOLOGIES         │  Web Dev Intern (Coimbatore)  Jan 2025 – Feb 202
 
 <div align="center">
 
-<!-- Replace [YOUR_GITHUB_USERNAME] in all stat URLs below -->
+<https://github.com/RakeshPranav>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
@@ -233,7 +233,7 @@ QONO TECHNOLOGIES         │  Web Dev Intern (Coimbatore)  Jan 2025 – Feb 202
 
 <div align="center">
 
-<!-- Replace [YOUR_GITHUB_USERNAME] below -->
+<RakeshPranav>
 [![Rakesh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB_USERNAME]&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
