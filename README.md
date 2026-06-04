@@ -1,6 +1,6 @@
 <!-- =====================================================
      RAKESH PRANAV K S — GitHub Profile README
-     Replace all [YOUR_GITHUB_USERNAME] with: your actual GitHub username
+     GitHub Username: RakeshPranav
      Replace all [YOUR_LINKEDIN_USERNAME] with: your LinkedIn profile slug
      Replace all [YOUR_LEETCODE_USERNAME] with: your LeetCode username
      ===================================================== -->
@@ -15,10 +15,10 @@
 
 <!-- PROFILE VIEWS & SOCIAL BADGES -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=RakeshPranav&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <a href="mailto:pranav.sadhasivam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/[YOUR_GITHUB_USERNAME]"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/RakeshPranav"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://leetcode.com/[YOUR_LEETCODE_USERNAME]"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
 </p>
 
@@ -116,66 +116,6 @@ I'm a **third-year Computer Science & Business Systems** student at KPR Institut
 
 ---
 
-## 🚀 Featured Projects
-
-<details>
-<summary><b>🗣️ Intelligent Speech Therapy Platform</b> — React · Flask · Python · PyDub · PostgreSQL</summary>
-<br>
-
-A full-stack English pronunciation assessment system built for the **Infosys Springboard NLP team**.
-
-**Key Features:**
-- 🔊 Grapheme-to-Phoneme (G2P) conversion for phoneme-level analysis
-- 🎙️ Whisper-based forced alignment for accurate timestamping
-- 🧠 Wav2Vec2 embeddings to score pronunciation accuracy at word and phoneme level
-- 📊 Real-time feedback dashboard built in React.js
-- ⚙️ Python Flask backend with PostgreSQL data persistence
-
-**Tech:** `React.js` `Python Flask` `Wav2Vec2` `Whisper` `PyDub` `PostgreSQL`
-
-<!-- Replace with your actual repo link -->
-[🔗 View Repository](https://github.com/[YOUR_GITHUB_USERNAME]/intelligent-speech-therapy)
-
-</details>
-
-<details>
-<summary><b>⚡ Serverless Certificate Approval System</b> — Lambda · API Gateway · DynamoDB · SNS · IAM</summary>
-<br>
-
-A scalable, event-driven certification approval system built entirely on **AWS serverless architecture**.
-
-**Key Features:**
-- 🔄 Automated request processing with role-based approval workflows
-- 📬 Real-time notifications via Amazon SNS
-- 🔐 Fine-grained access control using IAM policies
-- 🗃️ NoSQL data layer backed by DynamoDB
-- 🌐 RESTful API exposed through API Gateway
-
-**Tech:** `AWS Lambda` `API Gateway` `DynamoDB` `SNS` `IAM`
-
-<!-- Replace with your actual repo link -->
-[🔗 View Repository](https://github.com/[YOUR_GITHUB_USERNAME]/serverless-cert-approval)
-
-</details>
-
-<details>
-<summary><b>💡 Suggested Projects to Add (Recruiter Magnets)</b></summary>
-<br>
-
-These project types will significantly strengthen your profile for cloud roles:
-
-| Project Idea | Why It Impresses Recruiters |
-|---|---|
-| **AWS 3-Tier Web App** (VPC + EC2 + RDS + ALB) | Demonstrates networking & infrastructure fundamentals |
-| **CI/CD Pipeline** with GitHub Actions + AWS CodeDeploy | Shows DevOps awareness |
-| **Serverless REST API** with OpenAPI docs | Clean, production-pattern API design |
-| **Real-Time Data Dashboard** (Kinesis/SQS + Lambda + S3) | Data engineering + event-driven thinking |
-| **Cloud Cost Optimizer Tool** using AWS Cost Explorer API | Business impact mindset |
-| **Dockerized Microservice** deployed on ECS/Fargate | Container fluency recruiters love |
-
-</details>
-
----
 
 ## 💼 Experience Snapshot
 
@@ -196,8 +136,8 @@ QONO TECHNOLOGIES         │  Web Dev Intern (Coimbatore)  Jan 2025 – Feb 202
 
 <div align="center">
 
-<!-- Replace [YOUR_GITHUB_USERNAME] below -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=[YOUR_GITHUB_USERNAME]&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Replace RakeshPranav below -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=RakeshPranav&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -214,16 +154,16 @@ QONO TECHNOLOGIES         │  Web Dev Intern (Coimbatore)  Jan 2025 – Feb 202
 
 <div align="center">
 
-<https://github.com/RakeshPranav>
+<!-- Replace RakeshPranav in all stat URLs below -->
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RakeshPranav&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshPranav&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RakeshPranav&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -233,8 +173,8 @@ QONO TECHNOLOGIES         │  Web Dev Intern (Coimbatore)  Jan 2025 – Feb 202
 
 <div align="center">
 
-<RakeshPranav>
-[![Rakesh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB_USERNAME]&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Replace RakeshPranav below -->
+[![Rakesh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RakeshPranav&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -248,7 +188,7 @@ QONO TECHNOLOGIES         │  Web Dev Intern (Coimbatore)  Jan 2025 – Feb 202
 |----------|------|
 | 📧 Email | [pranav.sadhasivam@gmail.com](mailto:pranav.sadhasivam@gmail.com) |
 | 💼 LinkedIn | [linkedin.com/in/[YOUR_LINKEDIN_USERNAME]](https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]) |
-| 🐙 GitHub | [github.com/[YOUR_GITHUB_USERNAME]](https://github.com/[YOUR_GITHUB_USERNAME]) |
+| 🐙 GitHub | [github.com/RakeshPranav](https://github.com/RakeshPranav) |
 | 🧩 LeetCode | [leetcode.com/[YOUR_LEETCODE_USERNAME]](https://leetcode.com/[YOUR_LEETCODE_USERNAME]) |
 | 📱 Phone | +91 89734 16666 |
 
