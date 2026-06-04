@@ -154,16 +154,14 @@ QONO TECHNOLOGIES         │  Web Dev Intern (Coimbatore)  Jan 2025 – Feb 202
 
 <div align="center">
 
-<!-- Replace RakeshPranav in all stat URLs below -->
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RakeshPranav&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshPranav&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=RakeshPranav&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RakeshPranav&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RakeshPranav&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RakeshPranav&theme=tokyonight&hide_border=true)](https://github.com/RakeshPranav)
 
 </div>
 
