@@ -10,7 +10,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rakesh%20Pranav%20K%20S&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Cloud%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18)
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=640&lines=☁️+AWS+Certified+Cloud+Practitioner;🚀+Building+Scalable+Cloud-Native+Apps;🤖+NLP+%26+Speech+AI+Developer;🏆+Hackathon+Winner+%7C+2x+First+Place;📚+CS+%40+KPR+Institute+%7C+2023–2027)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=640&lines=☁️+AWS+Certified+Cloud+Practitioner;🚀+Building+Scalable+Cloud-Native+Apps;🤖+NLP+%26+Speech+AI+Developer;🏆+Hackathon+Winner+%7C+2x+First+Place;📚+CSBS+%40+KPR+Institute+%7C+2023–2027)](https://git.io/typing-svg)
 
 <!-- PROFILE VIEWS & SOCIAL BADGES -->
 <p>
